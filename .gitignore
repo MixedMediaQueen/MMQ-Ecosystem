@@ -1,0 +1,18 @@
+# Blender Temporary Files*blend1blend2# System Files
+.DS_Store
+Thumbs.db
+
+# VS Code Settings
+.vscode/settings.json
+
+# Large Compiled Assets (Ignore these file types wherever they appear)
+*.mp4
+*.mov
+*.tiff
+*.psd
+*.xcf
+*.fig
+
+# Ignore project-specific asset outputs that should not be version controlled
+Assets_Master/*.blend
+``` |
